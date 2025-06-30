@@ -1,7 +1,7 @@
 # Taha Sethi | Cyber Security Portfolio
 
 [![GitHub](https://img.shields.io/badge/@MTS--27-181717?style=flat&logo=github&logoColor=white)](https://github.com/MTS-27)
-[![Live Site](https://img.shields.io/badge/Live%20Demo-View-blueviolet?style=flat&logo=firefox-browser)](https://mts-27.github.io)
+[![Live Site](https://img.shields.io/badge/Live%20Demo-View-blueviolet?style=flat&logo=firefox-browser)]((https://mts-27.github.io/Portfolio/))
 [![Built With](https://img.shields.io/badge/Built%20With-HTML%20%7C%20CSS%20%7C%20JavaScript-informational)](#)
 
 ---
